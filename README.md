@@ -1,5 +1,5 @@
 # memory_efficient_data_pipelines_in_Python
-memory efficient data pipelines in Python
+CSV reader - transformer - csv writer
 
 Let’s think of a strategy:
 
